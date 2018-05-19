@@ -109,4 +109,5 @@ wgan_samples_*
 wgan_samples/*
 !wgan_samples/netG_epoch_1.pth
 !wgan_samples/netD_epoch_1.pth
+!wgan_samples/*.png
 
